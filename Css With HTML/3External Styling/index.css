@@ -1,0 +1,54 @@
+
+
+h1{
+
+    color: red;
+
+    font-family: Arial, Helvetica, sans-serif;
+
+    font-size: xx-large;
+
+    font-style: italic;
+
+    font-display: center;
+
+    font-stretch: expanded;
+
+    padding-left: 25%;
+
+    flex: auto;
+}
+
+p{
+    color: blue;
+
+    font-style: italic;
+
+    font-stretch: expanded;
+
+    font-display: center;
+
+    flex-direction: column;
+
+    flex: auto;
+}
+
+h2{
+
+    color: red;
+
+    font-family: Arial, Helvetica, sans-serif;
+
+    font-style: italic;
+
+    font-display: center;
+
+    font-size: xx-large;
+
+    font-stretch: expanded;
+
+    padding: 25%;
+
+    padding-top: 0%;
+
+}
